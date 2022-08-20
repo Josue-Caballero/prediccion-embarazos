@@ -8,3 +8,4 @@ urlpatterns = [
     path('', include(urls)),
     path('admin/', admin.site.urls),
 ]
+
